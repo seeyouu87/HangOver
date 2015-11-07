@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="HoDbContext-Web.config Connection String" description="HoDbContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=HoDbContext-20151107171222; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|HoDbContext-20151107171222.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\tan\\documents\\visual\ studio\ 2015\\Projects\\HangOver\\HangOver\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='HoDbContext']/@connectionString" />
+  </parameter>
+  <parameter name="HoDbContext_DatabasePublish-Web.config Connection String" description="HoDbContext_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="HoDbContext_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\tan\\documents\\visual\ studio\ 2015\\Projects\\HangOver\\HangOver\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='HoDbContext_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>
