@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/leechunhoe1/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/leechunhoe1/AndroidStudioProjects/HangOver/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-42f121d8d0cd77c53edca4c7ce5756cf3413238c.jar" />
+    </item>
+
+</items>
