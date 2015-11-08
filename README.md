@@ -7,5 +7,5 @@ HangOver is an mobile app which aim to solve all these problems by leveraging AP
 
 # APIs resources
 Twilio API: https://www.twilio.com/api <br />
-IntroMI SDK: https://uploads.strikinglycdn.com/files/452351/4835506c-e4ea-4d6c-b1f8-5bed9fc04d30/IntroMiSDKguideAndroid%20(1).docx
+IntroMI SDK: https://uploads.strikinglycdn.com/files/452351/4835506c-e4ea-4d6c-b1f8-5bed9fc04d30/IntroMiSDKguideAndroid%20(1).docx<br />
 Uber API: https://developer.uber.com/v1/endpoints/
