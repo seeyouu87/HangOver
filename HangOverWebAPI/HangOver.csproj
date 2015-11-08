@@ -179,12 +179,17 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\hangover.jpg" />
+    <Content Include="Content\MP4\Three-Cocktails.mp4" />
+    <Content Include="Content\Snapshot\Three-Cocktails.jpg" />
+    <Content Include="Content\WEBM\Three-Cocktails.webm" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Content\OGV\Three-Cocktails.ogv" />
     <None Include="Properties\PublishProfiles\hangoverthehub.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />

@@ -21,12 +21,7 @@ namespace HangOver.Controllers
             return View();
         }
 
-        public void Ubercode() {
-            if (Request["code"] != null && !string.IsNullOrEmpty(Request["code"]))
-            {
-                Response.Write(Request["code"].ToString());
-            }
-        }
+        
         //for user to register on event
         // GET: General/Register/5/1
         public void Register(int? eventid, int? userId)
@@ -71,7 +66,7 @@ namespace HangOver.Controllers
             string AuthToken = "0d08e8a2856d360e9cd0816e19baa15f";//test token :"d32142ce915c5377daa34e7efd06183b";
 
             var twilio = new TwilioRestClient(AccountSid, AuthToken);
-            var message = twilio.SendMessage("+14803606485 ", "+6596372198", "Dear Mr Tan, Mr Lee (no:98623241) is sending your son to hospital by taxi as he is too drunk.\n --By HangOver", "");
+            var message = twilio.SendMessage("+14803606485 ", "+6596372198", "Dear Mr Tan, Mr Lee (no:98623241) is sending your son to hospital by taxi as he is too drunk with bad health.\n --By HangOver", "");
 
         }
     }
